@@ -45,7 +45,7 @@ hr {
   padding-right: 0;
 }
 
-.project p {
+p {
   text-align: center;
   margin: 15px;
 }
@@ -80,9 +80,7 @@ hr {
   color: #696969;
 }
 
-.if-small {
-  display: none;
-}
+
 
 @media screen and (max-width: 750px) {
   .if-small {
